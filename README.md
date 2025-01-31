@@ -1,5 +1,5 @@
-# Happy Insurance Data Analysis Project: 
-This is a data analysis project based on historical data of insurance company. The objective is to present analytical information about company's performance, by looking for significant trends in various types of indicators.
+# Happy Insurance Data Analysis Project 
+This is a group data analysis project based on historical data of insurance company. The objective is to present analytical information about company's performance, by looking for significant trends in various types of indicators.
 
 ## Description
 This project demonstrates the process of pulling data from a database, performing ETL in Power Query, building a star-schema model in Power Pivot, making quick and insightful visualisations within Microsoft Excel, creating a semantic layer in PowerBI, and making interactive dashboards for data visualization and further analysis.
